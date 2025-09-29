@@ -6,7 +6,7 @@ export default function LoginErrorPage() {
           Sign-in error
         </h1>
         <p className="text-sm text-gray-600 mb-4">
-          We couldn't complete your sign-in. Please try sending a new magic
+          We couldn&apos;t complete your sign-in. Please try sending a new magic
           link.
         </p>
         <a
